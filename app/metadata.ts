@@ -28,7 +28,7 @@ export const metadata: Metadata = {
         siteName: "Saksham Agrahari Projects Showcase",
         images: [
             {
-                url: "/banner.png",
+                url: "https://saksham-projects.vercel.app/banner.png",
                 width: 1200,
                 height: 630,
                 alt: "Saksham Agrahari Projects Preview",
